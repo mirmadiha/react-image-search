@@ -4,8 +4,7 @@ A responsive image search application built with React that allows users to sear
 
 ## Features
 
-- **Real-time Image Search**: Search through millions of high-quality images
-- **Responsive Design**: Masonry-style grid layout that adapts to different screen sizes
+- **Real-time Image Search**: Search through high-quality images
 - **Clean UI**: Simple and intuitive user interface
 - **Fast Performance**: Optimized React components with proper state management
 
